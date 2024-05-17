@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.learnbymobile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="34" />
+
+    <permission
+        android:name="com.example.learnbymobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.learnbymobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LangLearn.Starting" >
+        <activity
+            android:name="com.example.learnbymobile.ChangePhotoActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.GameActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.WordsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.NoConnectionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.AuditionIncorrectActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.AuditionCorrectActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.AuditionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.AnimalsIFalse"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.AnimalsTrue"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.Animals"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.ProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.HomeActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.LanguageSelector"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.Confirm"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.Signup"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.LoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.OnboardingActivity"
+            android:exported="false"
+            android:theme="@style/Theme.LangLearn" />
+        <activity
+            android:name="com.example.learnbymobile.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.LangLearn.Starting" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.learnbymobile.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.learnbymobile.com.squareup.picasso"
+            android:exported="false" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

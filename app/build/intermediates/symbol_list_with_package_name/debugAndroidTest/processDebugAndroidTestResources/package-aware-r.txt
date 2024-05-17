@@ -1,0 +1,3 @@
+com.example.learnbymobile.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

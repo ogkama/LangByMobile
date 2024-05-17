@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#6E54AF</color>
+    <color name="accent_gray">#B6B6B6</color>
+    <color name="active">#586288</color>
+    <color name="black">#FF000000</color>
+    <color name="caution">#C14270</color>
+    <color name="correct">#5AA890</color>
+    <color name="dark_background">#080E1E</color>
+    <color name="dark_header">#FFFFFF</color>
+    <color name="dark_light">#363B44</color>
+    <color name="highlight">#EA721E</color>
+    <color name="highlightable">#fff6eb</color>
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="light_gray">#E5E5E5</color>
+    <color name="light_header">#080E1E</color>
+    <color name="light_text">#080E1E</color>
+    <color name="logo_background">#410FA3</color>
+    <color name="q20">#33080E1E</color>
+    <color name="q5">#0D080E1E</color>
+    <color name="q50">#80656872</color>
+    <color name="q60">#99080E1E</color>
+    <color name="q95">#0Df7f1e1</color>
+    <color name="splsh_logo_background">#410FA3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="animalAgain">Try Again</string>
+    <string name="animalAnswer">"That is: "</string>
+    <string name="animalCheck">Check</string>
+    <string name="animalCorrect">Holy Molly! That is Right!</string>
+    <string name="animalHeader">Write who is on image</string>
+    <string name="animalNext">Next</string>
+    <string name="animalTitle">Guess the animal</string>
+    <string name="animalWrong">Eh? Wrong answer :(</string>
+    <string name="app_name">LearnByMobile</string>
+    <string name="auditionCheck">Check my speech</string>
+    <string name="auditionCorrect">Yay! Go next</string>
+    <string name="auditionHint">Please press button and say this word. Our service will check your pronunciation</string>
+    <string name="auditionResult">Your result</string>
+    <string name="auditionTitle">Listening</string>
+    <string name="gameOpponent">P2</string>
+    <string name="gameYou">You</string>
+    <string name="homeAudition">Audition</string>
+    <string name="homeExcersises">Available excersises</string>
+    <string name="homeGame">Game</string>
+    <string name="homeGreeting">Hello, Kamil</string>
+    <string name="homeGuessAnimal">Guess the animal</string>
+    <string name="homeHeader">Are you ready for learning today?</string>
+    <string name="homeTopUsers">Top users</string>
+    <string name="homeWordPractice">Word practice</string>
+    <string name="imageHeader">Your photo is gorgeous!</string>
+    <string name="imageHint">Just resize that photo for fit in square</string>
+    <string name="imageUse">Use that image</string>
+    <string name="languageSelectorButton">Choose</string>
+    <string name="languageSelectorHeader">What is your Mother language?</string>
+    <string name="languageSelectorTitle">Language select</string>
+    <string name="loginButtonText">Login</string>
+    <string name="loginEmailPlaceholder">Email</string>
+    <string name="loginEmailText">Email Address</string>
+    <string name="loginForgotPas">Forgot Password</string>
+    <string name="loginHeader">For free, join now and start learning</string>
+    <string name="loginMembershipText">"Not you member? "</string>
+    <string name="loginPasswordPlaceholder">• • • • • • •</string>
+    <string name="loginPasswordText">Password</string>
+    <string name="loginTextGoogle">"Google for "</string>
+    <string name="loginTextSignin">sign in</string>
+    <string name="loginTextSignup">Signup</string>
+    <string name="loginTextUse">"Use can use "</string>
+    <string name="loginTitle">Login</string>
+    <string name="noConnectionButton">Check again</string>
+    <string name="noConnectionHeader">No  internet connection</string>
+    <string name="onboardingButtonText1">Next</string>
+    <string name="onboardingButtonText2">More</string>
+    <string name="onboardingButtonText3">Choose a language</string>
+    <string name="onboardingHeader1">Confidence in your words</string>
+    <string name="onboardingHeader2">Take your time to learn</string>
+    <string name="onboardingHeader3">The lessons you need to learn</string>
+    <string name="onboardingSkip">Skip onboarding</string>
+    <string name="onboardingText1">With conversation-based learning, you\'ll be talking from lesson one</string>
+    <string name="onboardingText2">Develop a habit of learning and make it a part of your daily routine</string>
+    <string name="onboardingText3">Using a variety of learning styles to learn and retain</string>
+    <string name="profileHeader">Your profile, Kamil</string>
+    <string name="profileImage">Change your image</string>
+    <string name="profileLanguage">Change mother language</string>
+    <string name="profileLogout">Logout</string>
+    <string name="profileTheme">Switch to Dark</string>
+    <string name="signupButtonText">Continue</string>
+    <string name="signupConfirmButtonText">Signup</string>
+    <string name="signupConfirmPasswordText">Confirm Password</string>
+    <string name="signupEmailPlaceholder">Email</string>
+    <string name="signupEmailText">Email Address</string>
+    <string name="signupFNamePlaceholder">YourFirstName</string>
+    <string name="signupFNameText">First Name</string>
+    <string name="signupHeader">Create an Account</string>
+    <string name="signupLNamePlaceholder">Your Last Name</string>
+    <string name="signupLNameText">Last Name</string>
+    <string name="signupLoginText">Login</string>
+    <string name="signupMembershipText">"Already you member? "</string>
+    <string name="signupPasswordHeader">Choose a Password</string>
+    <string name="signupPasswordPlaceholder">• • • • • • •</string>
+    <string name="signupPasswordText">Password</string>
+    <string name="signupTitle">Signup</string>
+    <string name="wordsCheck">Check</string>
+    <string name="wordsItem1_1">Собака</string>
+    <string name="wordsItem1_2">Муха</string>
+    <string name="wordsItem1_3">Гладиолус</string>
+    <string name="wordsItem1_4">Слон</string>
+    <string name="wordsItem2_1">Слон</string>
+    <string name="wordsItem2_2">Кабан</string>
+    <string name="wordsItem2_3">Охотник</string>
+    <string name="wordsItem2_4">Перчатка</string>
+    <string name="wordsItem3_1">Автомобиль</string>
+    <string name="wordsItem3_2">Пантера</string>
+    <string name="wordsItem3_3">Долгий</string>
+    <string name="wordsItem3_4">Стремительный</string>
+    <string name="wordsNext">Next</string>
+    <string name="wordsTitle">Word practice</string>
+    <style name="Base.Theme.LangLearn" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorOnBackground">@color/white</item>
+        <item name="colorPrimary">@color/dark_background</item>
+        <item name="colorBackgroundFloating">@color/q5</item>
+        
+        
+    </style>
+    <style name="Theme.LangLearn" parent="Base.Theme.LangLearn"/>
+    <style name="Theme.LangLearn.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/accent</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.LangLearn</item>
+    </style>
+    <style name="activeButton">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/fredoka_medium</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/active</item>
+        <item name="android:background">@drawable/active_btn</item>
+    </style>
+    <style name="activeTextBox">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/fredoka_medium</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+        <item name="android:background">@drawable/active_tb</item>
+        <item name="android:paddingStart">24dp</item>
+    </style>
+    <style name="cyanButton">
+        <item name="android:backgroundTint">#00B5AE</item>
+        <item name="android:background">@drawable/cyan_btn</item>
+    </style>
+    <style name="greenButton">
+        <item name="android:backgroundTint">@color/correct</item>
+        <item name="android:background">@drawable/green_btn</item>
+    </style>
+    <style name="inactiveButton">
+        <item name="android:backgroundTint">@color/light_gray</item>
+        <item name="android:background">@drawable/inactive_btn</item>
+    </style>
+    <style name="langBtn">
+        <item name="android:textSize">22sp</item>
+        <item name="fontFamily">@font/fredoka_semibold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="orangeButton">
+        <item name="android:backgroundTint">@color/highlight</item>
+        <item name="android:background">@drawable/orange_btn</item>
+    </style>
+    <style name="redButton">
+        <item name="android:backgroundTint">@color/caution</item>
+        <item name="android:background">@drawable/red_btn</item>
+    </style>
+</resources>
