@@ -72,7 +72,6 @@ font fredoka_semibold
 id animal
 id animalImage
 id animalImageCorrect
-id audition
 id back
 id btnLanguage
 id btnSetPhoto
@@ -80,9 +79,7 @@ id btnWord
 id button
 id button2
 id buttonAnimal
-id buttonAudition
 id buttonCheck
-id buttonGame
 id buttonNext
 id buttonRetry
 id buttonTryAgain
@@ -96,7 +93,6 @@ id editTextLName
 id editTextPassword
 id editTextPronunciation
 id exercises
-id game
 id greeting
 id header
 id header_layout
@@ -118,13 +114,11 @@ id skipText
 id text
 id textAnimal
 id textAnswer
-id textAudition
 id textConfirmPassword
 id textCongratulations
 id textEmail
 id textFName
 id textForgotPassword
-id textGame
 id textGoogle
 id textHint
 id textHint2

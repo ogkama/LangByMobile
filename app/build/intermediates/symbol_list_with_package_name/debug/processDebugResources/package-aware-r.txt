@@ -3240,7 +3240,6 @@ id anticipate
 id arc
 id asConfigured
 id async
-id audition
 id auto
 id autoComplete
 id autoCompleteToEnd
@@ -3263,9 +3262,7 @@ id btnWord
 id button
 id button2
 id buttonAnimal
-id buttonAudition
 id buttonCheck
-id buttonGame
 id buttonNext
 id buttonPanel
 id buttonRetry
@@ -3381,7 +3378,6 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
-id game
 id ghost_view
 id ghost_view_holder
 id gone
@@ -3650,14 +3646,12 @@ id text
 id text2
 id textAnimal
 id textAnswer
-id textAudition
 id textConfirmPassword
 id textCongratulations
 id textEmail
 id textEnd
 id textFName
 id textForgotPassword
-id textGame
 id textGoogle
 id textHint
 id textHint2

@@ -8,10 +8,6 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\mendeleev.png"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_animals.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_animals.xml"
-    },
-    {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\mipmap-xxhdpi_logo_round.webp.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\mipmap-xxhdpi\\logo_round.webp"
     },
@@ -28,10 +24,6 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\words.png"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_audition_correct.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_audition_correct.xml"
-    },
-    {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\layout_game_item.xml.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\layout\\game_item.xml"
     },
@@ -42,10 +34,6 @@
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\layout_activity_language_selector.xml.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\layout\\activity_language_selector.xml"
-    },
-    {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_audition_incorrect.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_audition_incorrect.xml"
     },
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\drawable_animal_3.jpg.flat",
@@ -92,10 +80,6 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_signup_confirm.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_signup_confirm.xml"
-    },
-    {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\drawable_animal_2.jpg.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\animal_2.jpg"
     },
@@ -122,10 +106,6 @@
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\layout_activity_audition.xml.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\layout\\activity_audition.xml"
-    },
-    {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_signup.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_signup.xml"
     },
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\drawable_active_btn.xml.flat",
@@ -232,10 +212,6 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\layout\\activity_home.xml"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_language_selector.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_language_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\mipmap-xhdpi_logo.webp.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\mipmap-xhdpi\\logo.webp"
     },
@@ -328,8 +304,8 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\vlad.png"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_no_connection.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_no_connection.xml"
+        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_home.xml.flat",
+        "source": "com.example.learnbymobile.app-main-37:/layout/activity_home.xml"
     },
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\mipmap-xxxhdpi_logo.webp.flat",
@@ -350,10 +326,6 @@
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\drawable_splash_icon.png.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\splash_icon.png"
-    },
-    {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_animals_incorrect.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_animals_incorrect.xml"
     },
     {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\font_fredoka.ttf.flat",
@@ -424,15 +396,7 @@
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\layout\\words_item.xml"
     },
     {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_animals_correct.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_animals_correct.xml"
-    },
-    {
         "merged": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-debug-35:\\drawable_rounded_language_background.xml.flat",
         "source": "C:\\Users\\kamil\\.gradle\\daemon\\8.4\\com.example.learnbymobile.app-main-37:\\drawable\\rounded_language_background.xml"
-    },
-    {
-        "merged": "com.example.learnbymobile.app-debug-35:/layout_activity_audition.xml.flat",
-        "source": "com.example.learnbymobile.app-main-37:/layout/activity_audition.xml"
     }
 ]
