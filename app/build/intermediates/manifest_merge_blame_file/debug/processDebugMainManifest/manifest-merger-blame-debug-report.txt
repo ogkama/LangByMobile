@@ -20,7 +20,7 @@
 15-->[androidx.core:core:1.12.0] C:\Users\kamil\.gradle\caches\transforms-3\e3798fac1cc01928d2d41f671c445117\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->D:\Language\app\src\main\AndroidManifest.xml:5:5-93:19
+17-->D:\Language\app\src\main\AndroidManifest.xml:5:5-65:19
 18        android:allowBackup="true"
 18-->D:\Language\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -39,237 +39,182 @@
 26-->D:\Language\app\src\main\AndroidManifest.xml:11:9-47
 27        android:supportsRtl="true"
 27-->D:\Language\app\src\main\AndroidManifest.xml:12:9-35
-28        android:theme="@style/Theme.LangLearn.Starting" >
-28-->D:\Language\app\src\main\AndroidManifest.xml:13:9-56
-29        <activity
-29-->D:\Language\app\src\main\AndroidManifest.xml:15:9-18:53
-30            android:name="com.example.learnbymobile.ChangePhotoActivity"
-30-->D:\Language\app\src\main\AndroidManifest.xml:16:13-48
-31            android:exported="false"
-31-->D:\Language\app\src\main\AndroidManifest.xml:17:13-37
-32            android:theme="@style/Theme.LangLearn" />
-32-->D:\Language\app\src\main\AndroidManifest.xml:18:13-51
-33        <activity
-33-->D:\Language\app\src\main\AndroidManifest.xml:19:9-22:54
-34            android:name="com.example.learnbymobile.GameActivity"
-34-->D:\Language\app\src\main\AndroidManifest.xml:20:13-41
-35            android:exported="false"
-35-->D:\Language\app\src\main\AndroidManifest.xml:21:13-37
-36            android:theme="@style/Theme.LangLearn" />
-36-->D:\Language\app\src\main\AndroidManifest.xml:22:13-51
-37        <activity
-37-->D:\Language\app\src\main\AndroidManifest.xml:23:9-26:54
-38            android:name="com.example.learnbymobile.WordsActivity"
-38-->D:\Language\app\src\main\AndroidManifest.xml:24:13-42
-39            android:exported="false"
-39-->D:\Language\app\src\main\AndroidManifest.xml:25:13-37
-40            android:theme="@style/Theme.LangLearn" />
-40-->D:\Language\app\src\main\AndroidManifest.xml:26:13-51
-41        <activity
-41-->D:\Language\app\src\main\AndroidManifest.xml:27:9-30:54
-42            android:name="com.example.learnbymobile.NoConnectionActivity"
-42-->D:\Language\app\src\main\AndroidManifest.xml:28:13-49
-43            android:exported="false"
-43-->D:\Language\app\src\main\AndroidManifest.xml:29:13-37
-44            android:theme="@style/Theme.LangLearn" />
-44-->D:\Language\app\src\main\AndroidManifest.xml:30:13-51
-45        <activity
-45-->D:\Language\app\src\main\AndroidManifest.xml:31:9-34:54
-46            android:name="com.example.learnbymobile.AuditionIncorrectActivity"
-46-->D:\Language\app\src\main\AndroidManifest.xml:32:13-54
-47            android:exported="false"
-47-->D:\Language\app\src\main\AndroidManifest.xml:33:13-37
-48            android:theme="@style/Theme.LangLearn" />
-48-->D:\Language\app\src\main\AndroidManifest.xml:34:13-51
-49        <activity
-49-->D:\Language\app\src\main\AndroidManifest.xml:35:9-38:54
-50            android:name="com.example.learnbymobile.AuditionCorrectActivity"
-50-->D:\Language\app\src\main\AndroidManifest.xml:36:13-52
-51            android:exported="false"
-51-->D:\Language\app\src\main\AndroidManifest.xml:37:13-37
-52            android:theme="@style/Theme.LangLearn" />
-52-->D:\Language\app\src\main\AndroidManifest.xml:38:13-51
-53        <activity
-53-->D:\Language\app\src\main\AndroidManifest.xml:39:9-42:54
-54            android:name="com.example.learnbymobile.AuditionActivity"
-54-->D:\Language\app\src\main\AndroidManifest.xml:40:13-45
-55            android:exported="false"
-55-->D:\Language\app\src\main\AndroidManifest.xml:41:13-37
-56            android:theme="@style/Theme.LangLearn" />
-56-->D:\Language\app\src\main\AndroidManifest.xml:42:13-51
-57        <activity
-57-->D:\Language\app\src\main\AndroidManifest.xml:43:9-46:54
-58            android:name="com.example.learnbymobile.AnimalsIFalse"
-58-->D:\Language\app\src\main\AndroidManifest.xml:44:13-42
-59            android:exported="false"
-59-->D:\Language\app\src\main\AndroidManifest.xml:45:13-37
-60            android:theme="@style/Theme.LangLearn" />
-60-->D:\Language\app\src\main\AndroidManifest.xml:46:13-51
-61        <activity
-61-->D:\Language\app\src\main\AndroidManifest.xml:47:9-50:54
-62            android:name="com.example.learnbymobile.AnimalsTrue"
-62-->D:\Language\app\src\main\AndroidManifest.xml:48:13-40
-63            android:exported="false"
-63-->D:\Language\app\src\main\AndroidManifest.xml:49:13-37
-64            android:theme="@style/Theme.LangLearn" />
-64-->D:\Language\app\src\main\AndroidManifest.xml:50:13-51
-65        <activity
-65-->D:\Language\app\src\main\AndroidManifest.xml:51:9-54:54
-66            android:name="com.example.learnbymobile.Animals"
-66-->D:\Language\app\src\main\AndroidManifest.xml:52:13-36
-67            android:exported="false"
-67-->D:\Language\app\src\main\AndroidManifest.xml:53:13-37
-68            android:theme="@style/Theme.LangLearn" />
-68-->D:\Language\app\src\main\AndroidManifest.xml:54:13-51
-69        <activity
-69-->D:\Language\app\src\main\AndroidManifest.xml:55:9-58:54
-70            android:name="com.example.learnbymobile.ProfileActivity"
-70-->D:\Language\app\src\main\AndroidManifest.xml:56:13-44
-71            android:exported="false"
-71-->D:\Language\app\src\main\AndroidManifest.xml:57:13-37
-72            android:theme="@style/Theme.LangLearn" />
-72-->D:\Language\app\src\main\AndroidManifest.xml:58:13-51
-73        <activity
-73-->D:\Language\app\src\main\AndroidManifest.xml:59:9-62:54
-74            android:name="com.example.learnbymobile.HomeActivity"
-74-->D:\Language\app\src\main\AndroidManifest.xml:60:13-41
-75            android:exported="false"
-75-->D:\Language\app\src\main\AndroidManifest.xml:61:13-37
-76            android:theme="@style/Theme.LangLearn" />
-76-->D:\Language\app\src\main\AndroidManifest.xml:62:13-51
-77        <activity
-77-->D:\Language\app\src\main\AndroidManifest.xml:63:9-66:54
-78            android:name="com.example.learnbymobile.LanguageSelector"
-78-->D:\Language\app\src\main\AndroidManifest.xml:64:13-45
-79            android:exported="false"
-79-->D:\Language\app\src\main\AndroidManifest.xml:65:13-37
-80            android:theme="@style/Theme.LangLearn" />
-80-->D:\Language\app\src\main\AndroidManifest.xml:66:13-51
-81        <activity
-81-->D:\Language\app\src\main\AndroidManifest.xml:67:9-70:54
-82            android:name="com.example.learnbymobile.Confirm"
-82-->D:\Language\app\src\main\AndroidManifest.xml:68:13-36
-83            android:exported="false"
-83-->D:\Language\app\src\main\AndroidManifest.xml:69:13-37
-84            android:theme="@style/Theme.LangLearn" />
-84-->D:\Language\app\src\main\AndroidManifest.xml:70:13-51
-85        <activity
-85-->D:\Language\app\src\main\AndroidManifest.xml:71:9-74:54
-86            android:name="com.example.learnbymobile.Signup"
-86-->D:\Language\app\src\main\AndroidManifest.xml:72:13-35
-87            android:exported="false"
-87-->D:\Language\app\src\main\AndroidManifest.xml:73:13-37
-88            android:theme="@style/Theme.LangLearn" />
-88-->D:\Language\app\src\main\AndroidManifest.xml:74:13-51
-89        <activity
-89-->D:\Language\app\src\main\AndroidManifest.xml:75:9-78:54
-90            android:name="com.example.learnbymobile.LoginActivity"
-90-->D:\Language\app\src\main\AndroidManifest.xml:76:13-42
-91            android:exported="false"
-91-->D:\Language\app\src\main\AndroidManifest.xml:77:13-37
-92            android:theme="@style/Theme.LangLearn" />
-92-->D:\Language\app\src\main\AndroidManifest.xml:78:13-51
-93        <activity
-93-->D:\Language\app\src\main\AndroidManifest.xml:79:9-82:54
-94            android:name="com.example.learnbymobile.OnboardingActivity"
-94-->D:\Language\app\src\main\AndroidManifest.xml:80:13-47
-95            android:exported="false"
-95-->D:\Language\app\src\main\AndroidManifest.xml:81:13-37
-96            android:theme="@style/Theme.LangLearn" />
-96-->D:\Language\app\src\main\AndroidManifest.xml:82:13-51
-97        <activity
-97-->D:\Language\app\src\main\AndroidManifest.xml:83:9-92:20
-98            android:name="com.example.learnbymobile.MainActivity"
-98-->D:\Language\app\src\main\AndroidManifest.xml:84:13-41
-99            android:exported="true"
-99-->D:\Language\app\src\main\AndroidManifest.xml:85:13-36
-100            android:theme="@style/Theme.LangLearn.Starting" >
-100-->D:\Language\app\src\main\AndroidManifest.xml:86:13-60
-101            <intent-filter>
-101-->D:\Language\app\src\main\AndroidManifest.xml:87:13-91:29
-102                <action android:name="android.intent.action.MAIN" />
-102-->D:\Language\app\src\main\AndroidManifest.xml:88:17-69
-102-->D:\Language\app\src\main\AndroidManifest.xml:88:25-66
-103
-104                <category android:name="android.intent.category.LAUNCHER" />
-104-->D:\Language\app\src\main\AndroidManifest.xml:90:17-77
-104-->D:\Language\app\src\main\AndroidManifest.xml:90:27-74
-105            </intent-filter>
-106        </activity>
-107
-108        <provider
-108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-109            android:name="androidx.startup.InitializationProvider"
-109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-110            android:authorities="com.example.learnbymobile.androidx-startup"
-110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-111            android:exported="false" >
-111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-112            <meta-data
-112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-113                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-114                android:value="androidx.startup" />
-114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-115            <meta-data
-115-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-116                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-116-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-117                android:value="androidx.startup" />
-117-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-118            <meta-data
-118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-119                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-120                android:value="androidx.startup" />
-120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-121        </provider>
-122        <provider
-122-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
-123            android:name="com.squareup.picasso.PicassoProvider"
-123-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
-124            android:authorities="com.example.learnbymobile.com.squareup.picasso"
-124-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
-125            android:exported="false" />
-125-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
-126
-127        <receiver
-127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-128            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-129            android:directBootAware="false"
-129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-130            android:enabled="true"
-130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-131            android:exported="true"
-131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-132            android:permission="android.permission.DUMP" >
-132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-133            <intent-filter>
-133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-134                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-135            </intent-filter>
-136            <intent-filter>
-136-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-137                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-138            </intent-filter>
-139            <intent-filter>
-139-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-140                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-141            </intent-filter>
-142            <intent-filter>
-142-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-143                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-144            </intent-filter>
-145        </receiver>
-146    </application>
-147
-148</manifest>
+28        android:testOnly="true"
+29        android:theme="@style/Theme.LearnByMobile.Starting" >
+29-->D:\Language\app\src\main\AndroidManifest.xml:13:9-60
+30        <activity
+30-->D:\Language\app\src\main\AndroidManifest.xml:15:9-18:58
+31            android:name="com.example.learnbymobile.AnimalsIFalse"
+31-->D:\Language\app\src\main\AndroidManifest.xml:16:13-42
+32            android:exported="false"
+32-->D:\Language\app\src\main\AndroidManifest.xml:17:13-37
+33            android:theme="@style/Theme.LearnByMobile" />
+33-->D:\Language\app\src\main\AndroidManifest.xml:18:13-55
+34        <activity
+34-->D:\Language\app\src\main\AndroidManifest.xml:19:9-22:58
+35            android:name="com.example.learnbymobile.AnimalsTrue"
+35-->D:\Language\app\src\main\AndroidManifest.xml:20:13-40
+36            android:exported="false"
+36-->D:\Language\app\src\main\AndroidManifest.xml:21:13-37
+37            android:theme="@style/Theme.LearnByMobile" />
+37-->D:\Language\app\src\main\AndroidManifest.xml:22:13-55
+38        <activity
+38-->D:\Language\app\src\main\AndroidManifest.xml:23:9-26:58
+39            android:name="com.example.learnbymobile.Animals"
+39-->D:\Language\app\src\main\AndroidManifest.xml:24:13-36
+40            android:exported="false"
+40-->D:\Language\app\src\main\AndroidManifest.xml:25:13-37
+41            android:theme="@style/Theme.LearnByMobile" />
+41-->D:\Language\app\src\main\AndroidManifest.xml:26:13-55
+42        <activity
+42-->D:\Language\app\src\main\AndroidManifest.xml:27:9-30:58
+43            android:name="com.example.learnbymobile.ProfileActivity"
+43-->D:\Language\app\src\main\AndroidManifest.xml:28:13-44
+44            android:exported="false"
+44-->D:\Language\app\src\main\AndroidManifest.xml:29:13-37
+45            android:theme="@style/Theme.LearnByMobile" />
+45-->D:\Language\app\src\main\AndroidManifest.xml:30:13-55
+46        <activity
+46-->D:\Language\app\src\main\AndroidManifest.xml:31:9-34:58
+47            android:name="com.example.learnbymobile.HomeActivity"
+47-->D:\Language\app\src\main\AndroidManifest.xml:32:13-41
+48            android:exported="false"
+48-->D:\Language\app\src\main\AndroidManifest.xml:33:13-37
+49            android:theme="@style/Theme.LearnByMobile" />
+49-->D:\Language\app\src\main\AndroidManifest.xml:34:13-55
+50        <activity
+50-->D:\Language\app\src\main\AndroidManifest.xml:35:9-38:58
+51            android:name="com.example.learnbymobile.LanguageSelector"
+51-->D:\Language\app\src\main\AndroidManifest.xml:36:13-45
+52            android:exported="false"
+52-->D:\Language\app\src\main\AndroidManifest.xml:37:13-37
+53            android:theme="@style/Theme.LearnByMobile" />
+53-->D:\Language\app\src\main\AndroidManifest.xml:38:13-55
+54        <activity
+54-->D:\Language\app\src\main\AndroidManifest.xml:39:9-42:58
+55            android:name="com.example.learnbymobile.Confirm"
+55-->D:\Language\app\src\main\AndroidManifest.xml:40:13-36
+56            android:exported="false"
+56-->D:\Language\app\src\main\AndroidManifest.xml:41:13-37
+57            android:theme="@style/Theme.LearnByMobile" />
+57-->D:\Language\app\src\main\AndroidManifest.xml:42:13-55
+58        <activity
+58-->D:\Language\app\src\main\AndroidManifest.xml:43:9-46:58
+59            android:name="com.example.learnbymobile.Signup"
+59-->D:\Language\app\src\main\AndroidManifest.xml:44:13-35
+60            android:exported="false"
+60-->D:\Language\app\src\main\AndroidManifest.xml:45:13-37
+61            android:theme="@style/Theme.LearnByMobile" />
+61-->D:\Language\app\src\main\AndroidManifest.xml:46:13-55
+62        <activity
+62-->D:\Language\app\src\main\AndroidManifest.xml:47:9-50:58
+63            android:name="com.example.learnbymobile.LoginActivity"
+63-->D:\Language\app\src\main\AndroidManifest.xml:48:13-42
+64            android:exported="false"
+64-->D:\Language\app\src\main\AndroidManifest.xml:49:13-37
+65            android:theme="@style/Theme.LearnByMobile" />
+65-->D:\Language\app\src\main\AndroidManifest.xml:50:13-55
+66        <activity
+66-->D:\Language\app\src\main\AndroidManifest.xml:51:9-54:58
+67            android:name="com.example.learnbymobile.OnboardingActivity"
+67-->D:\Language\app\src\main\AndroidManifest.xml:52:13-47
+68            android:exported="false"
+68-->D:\Language\app\src\main\AndroidManifest.xml:53:13-37
+69            android:theme="@style/Theme.LearnByMobile" />
+69-->D:\Language\app\src\main\AndroidManifest.xml:54:13-55
+70        <activity
+70-->D:\Language\app\src\main\AndroidManifest.xml:55:9-64:20
+71            android:name="com.example.learnbymobile.MainActivity"
+71-->D:\Language\app\src\main\AndroidManifest.xml:56:13-41
+72            android:exported="true"
+72-->D:\Language\app\src\main\AndroidManifest.xml:57:13-36
+73            android:theme="@style/Theme.LearnByMobile.Starting" >
+73-->D:\Language\app\src\main\AndroidManifest.xml:58:13-64
+74            <intent-filter>
+74-->D:\Language\app\src\main\AndroidManifest.xml:59:13-63:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->D:\Language\app\src\main\AndroidManifest.xml:60:17-69
+75-->D:\Language\app\src\main\AndroidManifest.xml:60:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->D:\Language\app\src\main\AndroidManifest.xml:62:17-77
+77-->D:\Language\app\src\main\AndroidManifest.xml:62:27-74
+78            </intent-filter>
+79        </activity>
+80
+81        <provider
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+83            android:authorities="com.example.learnbymobile.androidx-startup"
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+87                android:value="androidx.startup" />
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kamil\.gradle\caches\transforms-3\1eb79e970452cbd454db68648c2c6f9b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+89                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+90                android:value="androidx.startup" />
+90-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kamil\.gradle\caches\transforms-3\a7c045354eee21853a09a4997d407a86\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+91            <meta-data
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+93                android:value="androidx.startup" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+94        </provider>
+95        <provider
+95-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+96            android:name="com.squareup.picasso.PicassoProvider"
+96-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+97            android:authorities="com.example.learnbymobile.com.squareup.picasso"
+97-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+98            android:exported="false" />
+98-->[com.squareup.picasso:picasso:2.8] C:\Users\kamil\.gradle\caches\transforms-3\86326c7e2f246a66d8d1e2e043a933ea\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+99
+100        <receiver
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+101            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+102            android:directBootAware="false"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+103            android:enabled="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+104            android:exported="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+105            android:permission="android.permission.DUMP" >
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+107                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+110                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+113                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+116                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kamil\.gradle\caches\transforms-3\90a9083031bd9e6b1cee2a00b0f2c00c\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+117            </intent-filter>
+118        </receiver>
+119    </application>
+120
+121</manifest>

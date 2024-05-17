@@ -114,18 +114,18 @@
     <string name="wordsItem3_4">Стремительный</string>
     <string name="wordsNext">Next</string>
     <string name="wordsTitle">Word practice</string>
-    <style name="Base.Theme.LangLearn" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.LearnByMobile" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorOnBackground">@color/white</item>
         <item name="colorPrimary">@color/dark_background</item>
         <item name="colorBackgroundFloating">@color/q5</item>
         
         
     </style>
-    <style name="Theme.LangLearn" parent="Base.Theme.LangLearn"/>
-    <style name="Theme.LangLearn.Starting" parent="Theme.SplashScreen">
+    <style name="Theme.LearnByMobile" parent="Base.Theme.LearnByMobile"/>
+    <style name="Theme.LearnByMobile.Starting" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/accent</item>
         <item name="windowSplashScreenAnimatedIcon">@mipmap/logo</item>
-        <item name="postSplashScreenTheme">@style/Theme.LangLearn</item>
+        <item name="postSplashScreenTheme">@style/Theme.LearnByMobile</item>
     </style>
     <style name="activeButton">
         <item name="android:textSize">20sp</item>

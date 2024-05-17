@@ -278,8 +278,9 @@ string wordsItem3_4
 string wordsNext
 string wordsTitle
 style Base.Theme.LangLearn
-style Theme.LangLearn
-style Theme.LangLearn.Starting
+style Base.Theme.LearnByMobile
+style Theme.LearnByMobile
+style Theme.LearnByMobile.Starting
 style activeButton
 style activeTextBox
 style cyanButton

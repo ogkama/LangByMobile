@@ -25,79 +25,52 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LangLearn.Starting" >
-        <activity
-            android:name="com.example.learnbymobile.ChangePhotoActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.GameActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.WordsActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.NoConnectionActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.AuditionIncorrectActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.AuditionCorrectActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name="com.example.learnbymobile.AuditionActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+        android:testOnly="true"
+        android:theme="@style/Theme.LearnByMobile.Starting" >
         <activity
             android:name="com.example.learnbymobile.AnimalsIFalse"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.AnimalsTrue"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.Animals"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.ProfileActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.HomeActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.LanguageSelector"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.Confirm"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.Signup"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.LoginActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.OnboardingActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name="com.example.learnbymobile.MainActivity"
             android:exported="true"
-            android:theme="@style/Theme.LangLearn.Starting" >
+            android:theme="@style/Theme.LearnByMobile.Starting" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

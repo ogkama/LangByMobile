@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-95:12
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Language\app\src\main\AndroidManifest.xml:2:1-67:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\kamil\.gradle\caches\transforms-3\fd3f7a60a99f219b475c3765cc2a4fff\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kamil\.gradle\caches\transforms-3\89065a36ea6dc29d22f39d9f3a201aff\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kamil\.gradle\caches\transforms-3\8a873c24d09f474b2fb72d3172c23ce6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -62,8 +62,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\kamil\.gradle\caches\transform
 	xmlns:android
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:5:5-93:19
-INJECTED from D:\Language\app\src\main\AndroidManifest.xml:5:5-93:19
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:5:5-65:19
+INJECTED from D:\Language\app\src\main\AndroidManifest.xml:5:5-65:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\kamil\.gradle\caches\transforms-3\fd3f7a60a99f219b475c3765cc2a4fff\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\kamil\.gradle\caches\transforms-3\fd3f7a60a99f219b475c3765cc2a4fff\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kamil\.gradle\caches\transforms-3\89065a36ea6dc29d22f39d9f3a201aff\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -103,163 +103,107 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ka
 	android:allowBackup
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:13:9-56
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:13:9-60
 	android:dataExtractionRules
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.learnbymobile.ChangePhotoActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:15:9-18:53
+activity#com.example.learnbymobile.AnimalsIFalse
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:15:9-18:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:17:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:18:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:18:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:16:13-48
-activity#com.example.learnbymobile.GameActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:19:9-22:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:16:13-42
+activity#com.example.learnbymobile.AnimalsTrue
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:19:9-22:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:21:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:22:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:22:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:20:13-41
-activity#com.example.learnbymobile.WordsActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:23:9-26:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:20:13-40
+activity#com.example.learnbymobile.Animals
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:23:9-26:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:26:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:26:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:24:13-42
-activity#com.example.learnbymobile.NoConnectionActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:27:9-30:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:24:13-36
+activity#com.example.learnbymobile.ProfileActivity
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:27:9-30:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:29:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:30:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:30:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:28:13-49
-activity#com.example.learnbymobile.AuditionIncorrectActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:31:9-34:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:28:13-44
+activity#com.example.learnbymobile.HomeActivity
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:31:9-34:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:33:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:34:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:34:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:32:13-54
-activity#com.example.learnbymobile.AuditionCorrectActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:35:9-38:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:32:13-41
+activity#com.example.learnbymobile.LanguageSelector
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:35:9-38:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:37:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:38:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:38:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:36:13-52
-activity#com.example.learnbymobile.AuditionActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:39:9-42:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:36:13-45
+activity#com.example.learnbymobile.Confirm
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:39:9-42:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:41:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:42:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:42:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:40:13-45
-activity#com.example.learnbymobile.AnimalsIFalse
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:43:9-46:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:40:13-36
+activity#com.example.learnbymobile.Signup
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:43:9-46:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:45:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:46:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:46:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:44:13-42
-activity#com.example.learnbymobile.AnimalsTrue
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:47:9-50:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:44:13-35
+activity#com.example.learnbymobile.LoginActivity
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:47:9-50:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:49:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:50:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:50:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:48:13-40
-activity#com.example.learnbymobile.Animals
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:51:9-54:54
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:48:13-42
+activity#com.example.learnbymobile.OnboardingActivity
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:51:9-54:58
 	android:exported
 		ADDED from D:\Language\app\src\main\AndroidManifest.xml:53:13-37
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:54:13-51
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:54:13-55
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:52:13-36
-activity#com.example.learnbymobile.ProfileActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:55:9-58:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:57:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:58:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:56:13-44
-activity#com.example.learnbymobile.HomeActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:59:9-62:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:61:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:62:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:60:13-41
-activity#com.example.learnbymobile.LanguageSelector
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:63:9-66:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:65:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:66:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:64:13-45
-activity#com.example.learnbymobile.Confirm
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:67:9-70:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:69:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:70:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:68:13-36
-activity#com.example.learnbymobile.Signup
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:71:9-74:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:73:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:74:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:72:13-35
-activity#com.example.learnbymobile.LoginActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:75:9-78:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:77:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:78:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:76:13-42
-activity#com.example.learnbymobile.OnboardingActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:79:9-82:54
-	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:81:13-37
-	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:82:13-51
-	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:80:13-47
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:52:13-47
 activity#com.example.learnbymobile.MainActivity
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:83:9-92:20
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:55:9-64:20
 	android:exported
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:85:13-36
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:57:13-36
 	android:theme
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:86:13-60
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:58:13-64
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:84:13-41
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:56:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:87:13-91:29
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:59:13-63:29
 action#android.intent.action.MAIN
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:88:17-69
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:60:17-69
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:88:25-66
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:60:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Language\app\src\main\AndroidManifest.xml:90:17-77
+ADDED from D:\Language\app\src\main\AndroidManifest.xml:62:17-77
 	android:name
-		ADDED from D:\Language\app\src\main\AndroidManifest.xml:90:27-74
+		ADDED from D:\Language\app\src\main\AndroidManifest.xml:62:27-74
 uses-sdk
 INJECTED from D:\Language\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Language\app\src\main\AndroidManifest.xml

@@ -10,80 +10,52 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LangLearn.Starting"
+        android:theme="@style/Theme.LearnByMobile.Starting"
         tools:targetApi="31">
-        <activity
-            android:name=".ChangePhotoActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn"/>
-        <activity
-            android:name=".GameActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name=".WordsActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name=".NoConnectionActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name=".AuditionIncorrectActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name=".AuditionCorrectActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
-        <activity
-            android:name=".AuditionActivity"
-            android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
         <activity
             android:name=".AnimalsIFalse"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".AnimalsTrue"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".Animals"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".ProfileActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".HomeActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".LanguageSelector"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".Confirm"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".Signup"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".LoginActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".OnboardingActivity"
             android:exported="false"
-            android:theme="@style/Theme.LangLearn" />
+            android:theme="@style/Theme.LearnByMobile" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:theme="@style/Theme.LangLearn.Starting">
+            android:theme="@style/Theme.LearnByMobile.Starting">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
